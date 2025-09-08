@@ -1,4 +1,5 @@
  Spam_Email_Detection
+ 
 📌 Overview
 
 This project detects whether an email is Spam or Ham (Not Spam) using machine learning. It applies text preprocessing, feature extraction, and classification techniques to build a spam filter.
