@@ -82,6 +82,4 @@ Try other classifiers (SVM, Random Forest, Logistic Regression).
 
 Deploy as a web app using Flask or Streamlit.
 
-👩‍💻 Author
 
-Developed as part of Oasis Infobyte Internship – Task 4
