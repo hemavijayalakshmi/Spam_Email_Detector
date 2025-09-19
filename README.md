@@ -1,4 +1,4 @@
- Spam_Email_Detection
+SPAM EMAIL DETECTOR
  
 📌 Overview
 
